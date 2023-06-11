@@ -1,0 +1,73 @@
+"rk","id","loc","lon","lat","MATCHUP","MATCHUP.1","TIME","TV","tickets","Date","dt","free","gm"
+1,81,"FirstBank Stadium, Nashville, TN",-86.808941,36.1438717,"Hawai'i","@  Vanderbilt","7:30 PM","","Tickets as low as $9","Saturday, August 26, 2023","2023-08-26",TRUE,326
+2,52,"Center Parc Stadium, Atlanta, GA",-84.3893472,33.736095,"Rhode Island","@  Georgia State","7:00 PM","","Tickets as low as $20","Thursday, August 31, 2023","2023-08-31",TRUE,240
+3,53,"Mercedes-Benz Stadium, Atlanta, GA",-84.4005905,33.7553232,"Louisville","@  Georgia Tech","7:30 PM","","Tickets as low as $79","Friday, September 1, 2023","2023-09-01",TRUE,594
+4,57,"Sanford Stadium, Athens, GA",-83.3733392,33.9498057,"UT Martin","@  Georgia","6:00 PM","","Tickets as low as $69","Saturday, September 2, 2023","2023-09-02",TRUE,739
+5,7,"Camping World Stadium, Orlando, FL",-81.4027525,28.5390192,"LSU","@  Florida State","7:30 PM","","Tickets as low as $174","Sunday, September 3, 2023","2023-09-03",TRUE,204
+6,76,"Wallace Wade Stadium, Durham, NC",-78.941737,35.9953593,"Clemson","@  Duke","8:00 PM",NA,"Tickets as low as $70","Monday, September 4, 2023","2023-09-04",TRUE,860
+7,95,"Cardinal Stadium, Louisville, KY",-85.7588096,38.2058652,"Murray State","@  Louisville","7:30 PM",NA,"Tickets as low as $10","Thursday, September 7, 2023","2023-09-07",TRUE,215
+8,100,"David Booth Kansas Memorial Stadium, Lawrence, KS",-95.2463686,38.9629418,"Illinois","@  Kansas","7:30 PM",NA,"Tickets as low as $33","Friday, September 8, 2023","2023-09-08",TRUE,262
+9,77,"Razorback Stadium, Fayetteville, AR",-94.1789239,36.0680503,"Kent State","@  Arkansas","4:00 PM","","Tickets as low as $14","Saturday, September 9, 2023","2023-09-09",TRUE,675
+10,4,"Hard Rock Stadium, Miami Gardens, FL",-80.2395979,25.958326,"Bethune-Cookman","@  Miami","7:30 PM",NA,"Tickets as low as $10","Thursday, September 14, 2023","2023-09-14",TRUE,358
+11,102,"SECU Stadium, College Park, MD",-76.9472423,38.9902668,"Virginia","@  Maryland","7:00 PM","FS1","Tickets as low as $19","Friday, September 15, 2023","2023-09-15",TRUE,755
+12,74,"Kenan Stadium, Chapel Hill, NC",-79.0478649,35.9069535,"Minnesota","@  North Carolina","3:30 PM","","Tickets as low as $55","Saturday, September 16, 2023","2023-09-16",TRUE,458
+13,1055,"Brooks Stadium (SC), Conway, SC",-79.0174575,33.7928031,"Georgia State","@  Coastal Carolina","7:30 PM",NA,"Tickets as low as $31","Thursday, September 21, 2023","2023-09-21",TRUE,164
+14,119,"Ross-Ade Stadium, West Lafayette, IN",-86.9184385,40.434359,"Wisconsin","@  Purdue","7:00 PM","FS1","Tickets as low as $31","Friday, September 22, 2023","2023-09-22",TRUE,710
+15,98,"The Dome at America's Center, Saint Louis, MO",-90.1885068,38.6328232,"Memphis","@  Missouri","TBD","","Tickets as low as $36","Saturday, September 23, 2023","2023-09-23",TRUE,815
+16,82,"Chapman Stadium, Tulsa, OK",-95.9437969,36.1489569,"Temple","@  Tulsa","7:30 PM","","Tickets as low as $22","Thursday, September 28, 2023","2023-09-28",TRUE,244
+17,71,"Carter-Finley Stadium, Raleigh, NC",-78.7195655,35.8008001,"Louisville","@  NC State","7:00 PM","","Tickets as low as $57","Friday, September 29, 2023","2023-09-29",TRUE,223
+18,75,"Neyland Stadium, Knoxville, TN",-83.9250108,35.9550195,"South Carolina","@  Tennessee","TBD","","Tickets as low as $113","Saturday, September 30, 2023","2023-09-30",TRUE,621
+19,73,"Johnny ""Red"" Floyd Stadium, Murfreesboro, TN",-86.3681619,35.8513192,"Jacksonville State","@  Middle Tennessee","8:00 PM","","Tickets as low as $53","Wednesday, October 4, 2023","2023-10-04",TRUE,427
+20,36,"Joe Aillet Stadium, Ruston, LA",-92.655838,32.5320245,"Western Kentucky","@  Louisiana Tech","8:00 PM","","Tickets as low as $48","Thursday, October 5, 2023","2023-10-05",TRUE,417
+21,79,"Boone Pickens Stadium, Stillwater, OK",-97.066489,36.1256372,"Kansas State","@  Oklahoma State","7:30 PM",NA,"Tickets as low as $57","Friday, October 6, 2023","2023-10-06",TRUE,151
+22,50,"Protective Stadium, Birmingham, AL",-86.8091966,33.5277899,"South Florida","@  UAB","TBD","","Tickets as low as $51","Saturday, October 7, 2023","2023-10-07",TRUE,663
+23,56,"Burgess-Snow Field, Jacksonville, AL",-85.7662941,33.8203824,"Liberty","@  Jacksonville State","7:30 PM","","Tickets as low as $51","Tuesday, October 10, 2023","2023-10-10",TRUE,184
+24,31,"Aggie Memorial Stadium, Las Cruces, NM",-106.7417131,32.2794855,"Sam Houston","@  New Mexico State","9:00 PM","CBSSN","Tickets as low as $40","Wednesday, October 11, 2023","2023-10-11",TRUE,49
+25,14,"TDECU Stadium, Houston, TX",-95.3489815,29.722565,"West Virginia","@  Houston","7:00 PM","FS1","Tickets as low as $27","Thursday, October 12, 2023","2023-10-12",TRUE,813
+26,66,"Simmons Bank Liberty Stadium, Memphis, TN",-89.9774275,35.1210966,"Tulane","@  Memphis","7:00 PM","","Tickets as low as $25","Friday, October 13, 2023","2023-10-13",TRUE,770
+27,45,"Bryant-Denny Stadium, Tuscaloosa, AL",-87.5503836,33.2082752,"Arkansas","@  Alabama","TBD","","Tickets as low as $70","Saturday, October 14, 2023","2023-10-14",TRUE,168
+28,24,"Hancock Whitney Stadium, Mobile, AL",-88.1918231,30.6966759,"Southern Miss","@  South Alabama","7:30 PM","","Tickets as low as $30","Tuesday, October 17, 2023","2023-10-17",TRUE,351
+29,25,"Elliott T. Bowers Stadium, Huntsville, TX",-95.5421173,30.7137727,"Florida International","@  Sam Houston","7:00 PM","CBSSN","Tickets as low as $46","Wednesday, October 18, 2023","2023-10-18",TRUE,302
+30,96,"Joan C. Edwards Stadium, Huntington, WV",-82.4210186,38.4249223,"James Madison","@  Marshall","7:00 PM",NA,"Tickets as low as $32","Thursday, October 19, 2023","2023-10-19",TRUE,410
+31,113,"Lincoln Financial Field, Philadelphia, PA",-75.1675215,39.9013695,"SMU","@  Temple","7:00 PM",NA,"Tickets as low as $56","Friday, October 20, 2023","2023-10-20",TRUE,505
+32,104,"Nippert Stadium, Cincinnati, OH",-84.516233,39.131219,"Baylor","@  Cincinnati","TBD","","Tickets as low as $69","Saturday, October 21, 2023","2023-10-21",TRUE,628
+33,87,"Houchens Industries-L.T. Smith Stadium, Bowling Green, KY",-86.4594168,36.9847323,"Liberty","@  Western Kentucky","7:30 PM","","Tickets as low as $15","Tuesday, October 24, 2023","2023-10-24",TRUE,363
+34,3,"Riccardo Silva Stadium, Miami, FL",-80.3778939,25.7525026,"Jacksonville State","@  Florida International","7:00 PM","CBSSN","Tickets as low as $16","Wednesday, October 25, 2023","2023-10-25",TRUE,687
+35,33,"Allen E. Paulson Stadium, Statesboro, GA",-81.7831353,32.4121952,"Georgia State","@  Georgia Southern","7:30 PM",NA,"Tickets as low as $35","Thursday, October 26, 2023","2023-10-26",TRUE,76
+36,69,"Jerry Richardson Stadium, Charlotte, NC",-80.7401126,35.3104931,"Florida Atlantic","@  Charlotte","7:30 PM",NA,"Tickets as low as $31","Friday, October 27, 2023","2023-10-27",TRUE,401
+37,80,"Truist Field, Winston-Salem, NC",-80.2554475,36.1314553,"Florida State","@  Wake Forest","TBD","","Tickets as low as $30","Saturday, October 28, 2023","2023-10-28",TRUE,824
+38,133,"Glass Bowl, Toledo, OH",-83.6135816,41.6572818,"Buffalo","@  Toledo","TBD",NA,"Tickets as low as $34","Tuesday, October 31, 2023","2023-10-31",TRUE,344
+39,131,"Doyt L. Perry Stadium, Bowling Green, OH",-83.6225,41.3780114,"Ball State","@  Bowling Green","TBD",NA,"Tickets as low as $16","Wednesday, November 1, 2023","2023-11-01",TRUE,296
+40,29,"Veterans Memorial Stadium (AL), Troy, AL",-85.951846,31.7995116,"South Alabama","@  Troy","7:30 PM","","Tickets as low as $18","Thursday, November 2, 2023","2023-11-02",TRUE,850
+41,151,"JMA Wireless Dome, Syracuse, NY",-76.1362931,43.036233,"Boston College","@  Syracuse","7:30 PM","","Tickets as low as $30","Friday, November 3, 2023","2023-11-03",TRUE,405
+42,121,"SHI Stadium, Piscataway, NJ",-74.4652778,40.5136111,"Ohio State","@  Rutgers","TBD","","Tickets as low as $74","Saturday, November 4, 2023","2023-11-04",TRUE,762
+43,150,"UB Stadium, Buffalo, NY",-78.7775225,42.9991427,"Ohio","@  Buffalo","TBD",NA,"Tickets as low as $19","Tuesday, November 7, 2023","2023-11-07",TRUE,834
+44,129,"Dix Stadium, Kent, OH",-81.3136611,41.1390167,"Bowling Green","@  Kent State","TBD",NA,"Tickets as low as $36","Wednesday, November 8, 2023","2023-11-08",TRUE,274
+45,18,"Cajun Field, Lafayette, LA",-92.041732,30.2158054,"Southern Miss","@  Louisiana","7:30 PM",NA,"Tickets as low as $44","Thursday, November 9, 2023","2023-11-09",TRUE,187
+46,42,"Gerald J. Ford Stadium, Dallas, TX",-96.7826953,32.837778,"North Texas","@  SMU","9:00 PM","","Tickets as low as $20","Friday, November 10, 2023","2023-11-10",TRUE,337
+47,93,"Kroger Field, Lexington, KY",-84.5051762,38.0227476,"Alabama","@  Kentucky","TBD","","Tickets as low as $168","Saturday, November 11, 2023","2023-11-11",TRUE,476
+48,142,"Rynearson Stadium, Ypsilanti, MI",-83.6473825,42.255885,"Akron","@  Eastern Michigan","TBD",NA,"Tickets as low as $31","Tuesday, November 14, 2023","2023-11-14",TRUE,727
+49,107,"Peden Stadium, Athens, OH",-82.1029537,39.3210165,"Central Michigan","@  Ohio","7:00 PM",NA,"Tickets as low as $14","Wednesday, November 15, 2023","2023-11-15",TRUE,653
+50,120,"Acrisure Stadium, Pittsburgh, PA",-80.0157603,40.4467648,"Boston College","@  Pittsburgh","7:00 PM",NA,"Tickets as low as $22","Thursday, November 16, 2023","2023-11-16",TRUE,45
+51,10,"Alamodome, San Antonio, TX",-98.4788143,29.4169834,"South Florida","@  UTSA","9:00 PM","","Tickets as low as $30","Friday, November 17, 2023","2023-11-17",TRUE,53
+52,114,"Ohio Stadium, Columbus, OH",-83.0197277,40.0016627,"Minnesota","@  Ohio State","TBD","","Tickets as low as $83","Saturday, November 18, 2023","2023-11-18",TRUE,642
+53,144,"Waldo Stadium, Kalamazoo, MI",-85.6009176,42.2855272,"Bowling Green","@  Western Michigan","TBD",NA,"Tickets as low as $23","Tuesday, November 21, 2023","2023-11-21",TRUE,859
+54,48,"Davis Wade Stadium, Starkville, MS",-88.793165,33.4570899,"Ole Miss","@  Mississippi State","7:30 PM",NA,"Tickets as low as $57","Thursday, November 23, 2023","2023-11-23",TRUE,269
+55,19,"DKR-Texas Memorial Stadium, Austin, TX",-97.7325194,30.2835401,"Texas Tech","@  Texas","7:30 PM","","Tickets as low as $57","Friday, November 24, 2023","2023-11-24",TRUE,277
+56,46,"Sun Devil Stadium, Tempe, AZ",-111.9325733,33.426453,"Arizona","@  Arizona State","TBD","","Tickets as low as $40","Saturday, November 25, 2023","2023-11-25",TRUE,802
+57,78,"Allegiant Stadium, Las Vegas, NV",-115.1833222,36.0908665,"TBD","@  TBD","8:00 PM","",NA,"Friday, December 1, 2023","2023-12-01",TRUE,68
+58,112,"Lucas Oil Stadium, Indianapolis, IN",-86.1638877,39.7601007,"TBD","@  TBD","TBD","FOX",NA,"Saturday, December 2, 2023","2023-12-02",TRUE,514
+59,141,"Gillette Stadium, Foxboro, MA",-71.2643465,42.0909458,"Navy","@  Army","3:00 PM","CBS","Tickets as low as $465","Saturday, December 9, 2023","2023-12-09",TRUE,341
+60,8,"Exploria Stadium, Orlando, FL",-81.3890693,28.5411828,"TBDCure Bowl","@  TBD","3:30 PM",NA,"","Saturday, December 16, 2023","2023-12-16",TRUE,15
+61,55,"Brooks Stadium (SC), Conway, SC",-79.0174575,33.7928031,"TBDMyrtle Beach Bowl","@  TBD","2:30 PM",NA,"Tickets as low as $75","Monday, December 18, 2023","2023-12-18",TRUE,7
+62,43,"Toyota Stadium, Frisco, TX",-96.8352278,33.1543199,"TBDFrisco Bowl","@  TBD","9:00 PM",NA,NA,"Tuesday, December 19, 2023","2023-12-19",TRUE,38
+63,5,"FAU Stadium, Boca Raton, FL",-80.1016311,26.3761349,"TBDRoofClaim.com Boca Raton Bowl","@  TBD","8:00 PM",NA,NA,"Thursday, December 21, 2023","2023-12-21",TRUE,16
+64,6,"Raymond James Stadium, Tampa, FL",-82.5033344,27.9758691,"TBDUnion Home Mortgage Gasparilla Bowl","@  TBD","6:30 PM",NA,NA,"Friday, December 22, 2023","2023-12-22",TRUE,29
+65,32,"Cramton Bowl, Montgomery, AL",-86.2930272,32.379522,"TBDCamellia Bowl","@  TBD","12:00 PM",NA,"","Saturday, December 23, 2023","2023-12-23",TRUE,14
+66,146,"Ford Field, Detroit, MI",-83.045603,42.3400064,"TBDQuick Lane Bowl","@  TBD","2:00 PM",NA,"","Tuesday, December 26, 2023","2023-12-26",TRUE,18
+67,101,"Navy-Marine Corps Memorial Stadium, Annapolis, MD",-76.5070716,38.9847806,"TBDMilitary Bowl","@  TBD","2:00 PM",NA,"","Wednesday, December 27, 2023","2023-12-27",TRUE,24
+68,127,"Yankee Stadium, Bronx, NY",-73.9261745,40.8296426,"TBDBad Boy Mowers Pinstripe Bowl","@  TBD","2:15 PM",NA,"","Thursday, December 28, 2023","2023-12-28",TRUE,40
+69,20,"TIAA Bank Field, Jacksonville, FL",-81.6373497,30.3239099,"TBDTaxSlayer Gator Bowl","@  TBD","12:00 PM","","","Friday, December 29, 2023","2023-12-29",TRUE,37
+70,83,"Nissan Stadium, Nashville, TN",-86.7712898,36.166479,"TBDTransPerfect Music City Bowl","@  TBD","2:00 PM",NA,"","Saturday, December 30, 2023","2023-12-30",TRUE,25
+71,17,"Caesars Superdome, New Orleans, LA",-90.0812442,29.951061,"TBDCFP Semifinal at the Allstate Sugar Bowl","@  TBD","8:45 PM",NA,"Tickets as low as $341","Monday, January 1, 2024","2024-01-01",TRUE,9
+72,12,"NRG Stadium, Houston, TX",-95.4107074,29.6847219,"TBDCFP National Championship pres. by AT&T","@  TBD","7:30 PM",NA,NA,"Monday, January 8, 2024","2024-01-08",TRUE,26
